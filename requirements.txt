@@ -5,4 +5,5 @@ beautifulsoup4>=4.12
 lxml>=5.3
 python-dotenv>=1.0
 loguru>=0.7
-funpay-api-python>=0.1.0
+funpay-api-python @ git+https://github.com/fakelag28/funpay-api-python.git
+
